@@ -11,6 +11,8 @@ public class EjerArrays {
         Collections.sort(numeros);
         System.out.println("Numeros: "+numeros);
 
+        System.out.println("Hola prueba giit");
+
     }
     private static void llenar(ArrayList<Integer>arr, int cantidad, int rango){
         while (arr.size() < cantidad) {
